@@ -21,4 +21,3 @@ public class addarray {
         obj.addexample();
     }
 }
-
